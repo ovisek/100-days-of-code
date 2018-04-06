@@ -42,6 +42,15 @@ N/A
 
 **Today's Progress**:
 
+- AWS - no new topics covered. Things I am pondering right now - IAM,S3. More reading / hands one required on these
+- Struggling with testing the changes on a new development branch
+
 **Thoughts**:
 
+- I don't think I can dive right away into aws-cli and the AWS API calls - the core services need to be understood well and fiddle withe management console on these.
+- Setting by the ruby dependencies on windows is a pain to say the least. Previously too lot of time was wasted in getting things set up and I'm repeating the same again - tried using Linux subsystem on Windows 10 , tried on CentOS-7 VM (this will work but couldn't get the guest additions enabled - so no way of syncing local copy with remote VM)
+- Adding collections / tags to the blog is something I need to figure out.
+
 **Link(s) to work**:
+
+[personal blog](ovisek.github.io)

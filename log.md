@@ -54,3 +54,52 @@ N/A
 **Link(s) to work**:
 
 [personal blog](ovisek.github.io)
+
+## Day 4: April 6, Friday
+
+**Today's Progress**:
+
+- Checked out how to host static website on S3
+- Used aws-cli to get some basic details about the ec2 instance
+
+**Thoughts**:
+
+- Had this idea today of automating the #100DaysOfCode tweet to log the daily progress in response to a git commit.
+Explored about webhooks, twitter API and also IFTTT service.
+
+**Link(s) to work**:
+
+N/A
+
+## Day 5: April 7, Saturday
+
+**Today's Progress**:
+
+
+**Thoughts**:
+
+
+**Link(s) to work**:
+N/A
+
+## Day 5: April 8, Sunday
+
+**Today's Progress**:
+
+
+**Thoughts**:
+
+
+**Link(s) to work**:
+N/A
+
+## Day 6: April 9, Monday
+
+**Today's Progress**:
+
+
+**Thoughts**:
+
+
+**Link(s) to work**:
+N/A

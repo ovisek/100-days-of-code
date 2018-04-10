@@ -113,8 +113,9 @@ N/A
 
 ## Day 8: April 10, Tuesday
 
-**Thoughts**:
+**Today's Progress**:
 
+**Thoughts**:
 
 **Link(s) to work**:
 N/A

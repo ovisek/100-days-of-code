@@ -12,7 +12,7 @@
 **Thoughts**:
 
 - I would like to get a clear picture how the SSH connections work - the maths and concepts behind assymetric keys / public / private keys. This may lead to digressing from the actual learning objectives , but I feel spending sometime on it is worth it.
-- Also, I had started on getting an overview of the various AWS services and concepts - few topics are yet to be covered. This isn't a exhaustive study but a general overview - will take up each of these one at a time while working on these from a programers perspective.
+- Also, I had started on getting an overview of the various AWS services and concepts - `refernce`:[Amazon Web Services (AWS) - Zero to Hero][2]. Few topics are yet to be covered. This isn't a exhaustive study but a general overview - will take up each of these one at a time while working on these from a programers perspective.
 Atleast as of now I would like to be clear with all the available services and their use cases.
 
 **Link(s) to work**:
@@ -27,7 +27,7 @@ N/A
  - Created user with API access . Configured aws-cli with the given API access key id / API secret key before making API requests.
  - Used boto3 to connect to ec2 client and S3 resource.
  - Brief introduction to S3
- - static website hosting on github - changing the github username had broken the menu links - fixed that.
+ - Static website hosting on github - changing the github username had broken the menu links - fixed that.
  
 **Thoughts**:
 
@@ -75,31 +75,51 @@ N/A
 
 **Today's Progress**:
 
+ - Going through the contents from the course [AWS Developer: Building on AWS][1]
 
 **Thoughts**:
 
+- Still pondering on automating the tweet for daily progress log.
 
 **Link(s) to work**:
 N/A
 
-## Day 5: April 8, Sunday
+## Day 6: April 8, Sunday
 
 **Today's Progress**:
 
+- No progress.
 
 **Thoughts**:
 
+- In typical Sunday mode - but that's fine I guess - still determined to continue the next day with new vigour.
 
 **Link(s) to work**:
 N/A
 
-## Day 6: April 9, Monday
+## Day 7: April 9, Monday
 
 **Today's Progress**:
 
+- Week 1-2 : [AWS Developer: Building on AWS][1].
+- Discovered that the webhook had been tweeting on my behalf - not quite the format I wanted : but some success here.
+
+**Thoughts**:
+
+- The additional readings and related whitepapers/docs needs to be read. Would concentrate next few days doing that before moving on to next week's content.
+
+**Link(s) to work**:
+N/A
+
+## Day 8: April 10, Tuesday
 
 **Thoughts**:
 
 
 **Link(s) to work**:
 N/A
+
+
+------
+[1]: https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD1+1T2018/course/
+[2]: https://www.udemy.com/amazon-web-services-aws-v/learn/v4/content

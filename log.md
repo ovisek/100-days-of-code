@@ -115,11 +115,40 @@ N/A
 
 **Today's Progress**:
 
+- 
+
 **Thoughts**:
+
+-
 
 **Link(s) to work**:
 N/A
 
+## Day 9: April 11, Wednesday
+
+**Today's Progress**:
+
+-
+
+**Thoughts**:
+
+-
+
+**Link(s) to work**:
+N/A
+
+## Day 10: April 12, Thursday
+
+**Today's Progress**:
+
+- Didn't learn new concepts . Exploring some new resources.
+
+**Thoughts**:
+
+- Fell sick today. Coudln't go to work as well
+
+**Link(s) to work**:
+N/A
 
 ------
 [1]: https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD1+1T2018/course/

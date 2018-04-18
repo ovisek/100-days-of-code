@@ -226,6 +226,8 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Link(s)**:
 
+[16-1]:https://zeit.co/now
+
 ------
 [1]: https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD1+1T2018/course/
 [2]: https://www.udemy.com/amazon-web-services-aws-v/learn/v4/content

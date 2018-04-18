@@ -15,9 +15,7 @@
 - Also, I had started on getting an overview of the various AWS services and concepts - `refernce`:[Amazon Web Services (AWS) - Zero to Hero][2]. Few topics are yet to be covered. This isn't a exhaustive study but a general overview - will take up each of these one at a time while working on these from a programers perspective.
 Atleast as of now I would like to be clear with all the available services and their use cases.
 
-**Link(s) to work**:
-
-N/A
+**Link(s)**:
 
 
 ## Day 2: April 4, Wednesday
@@ -34,9 +32,9 @@ N/A
 - Need to read the docs on aws-cli and using AWS API
 - The jekyll personal blog project is long pending. Still some things are there that I need to get fixed.
 
-**Link(s) to work**:
-
+**Link(s)**:
 [personal blog](ovisek.github.io)
+
 
 ## Day 3: April 5, Thursday
 
@@ -51,9 +49,9 @@ N/A
 - Setting by the ruby dependencies on windows is a pain to say the least. Previously too lot of time was wasted in getting things set up and I'm repeating the same again - tried using Linux subsystem on Windows 10 , tried on CentOS-7 VM (this will work but couldn't get the guest additions enabled - so no way of syncing local copy with remote VM)
 - Adding collections / tags to the blog is something I need to figure out.
 
-**Link(s) to work**:
-
+**Link(s)**:
 [personal blog](ovisek.github.io)
+
 
 ## Day 4: April 6, Friday
 
@@ -67,9 +65,8 @@ N/A
 - Had this idea today of automating the #100DaysOfCode tweet to log the daily progress in response to a git commit.
 Explored about webhooks, twitter API and also IFTTT service.
 
-**Link(s) to work**:
+**Link(s)**:
 
-N/A
 
 ## Day 5: April 7, Saturday
 
@@ -81,8 +78,8 @@ N/A
 
 - Still pondering on automating the tweet for daily progress log.
 
-**Link(s) to work**:
-N/A
+**Link(s)**:
+
 
 ## Day 6: April 8, Sunday
 
@@ -94,8 +91,8 @@ N/A
 
 - In typical Sunday mode - but that's fine I guess - still determined to continue the next day with new vigour.
 
-**Link(s) to work**:
-N/A
+**Link(s)**:
+
 
 ## Day 7: April 9, Monday
 
@@ -108,34 +105,34 @@ N/A
 
 - The additional readings and related whitepapers/docs needs to be read. Would concentrate next few days doing that before moving on to next week's content.
 
-**Link(s) to work**:
-N/A
+**Link(s)**:
+
 
 ## Day 8: April 10, Tuesday
 
-**Today's Progress**:
+**Today's Progress**
 
-- 
+- Watched video on Flask app development.
 
 **Thoughts**:
 
--
+- This is something I would need to work on later - this digresses from current schedule . Passive video watching doesn't help much unless some actual code is wriiten and tested using the things learnt.
 
-**Link(s) to work**:
-N/A
+**Link(s)**:
+
 
 ## Day 9: April 11, Wednesday
 
 **Today's Progress**:
 
--
+- Can't think of anything concrete that was done today.
 
 **Thoughts**:
 
--
+- Need to focus and decide on the next plan.
 
-**Link(s) to work**:
-N/A
+**Link(s)**:
+
 
 ## Day 10: April 12, Thursday
 
@@ -145,11 +142,92 @@ N/A
 
 **Thoughts**:
 
-- Fell sick today. Coudln't go to work as well
+- Fell sick today. Couldn't go to work as well
 
-**Link(s) to work**:
-N/A
+**Link(s)**
+
+
+## Day 11: April 13, Friday
+
+**Today's Progress**:
+
+- Started with the basics of [node.js + express][11-1].
+
+**Thoughts**:
+
+**Link(s)**
+
+[11-1]:https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+
+
+## Day 12: April 14, Saturday
+
+**Today's Progress**:
+
+- Did some more reading from [Express+Node.js][11-1]. 
+
+**Thoughts**:
+
+- Looking for resources to learn about building a REST API using node.js
+
+**Link(s)**
+
+[12-1]:https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2
+
+
+## Day 13: April 15, Sunday
+
+**Today's Progress**:
+
+- Setup the development environment and started on a very basic app.
+
+**Thoughts**:
+
+- Next need to learn about [mongoose][13-1] and integrating with [MongoDB][13-2]
+
+**Link(s)**
+
+[13-1]:http://mongoosejs.com/docs/index.html
+[13-2]:https://www.mongodb.com/
+
+
+## Day 14: April 16, Monday
+
+**Today's Progress**:
+
+- Created an initial version of a Node.js app with express-generator that accepts github webhook events and processes the JSON request 
+- Next step is to format the tweet message and send out a tweet using the twitter API
+- Learnt about [dotenv][14-1] : working with .env files
+
+**Thoughts**:
+
+- The introduction has gone fine so far. There's so much more to explore - hopefully I'll get to learn while  doing app specific work
+
+**Link(s)**
+
+[14-1]: https://github.com/motdotla/dotenv
+
+
+## Day 15: April 17, Tuesday
+
+**Today's Progress**:
+
+- Going through the Twitter API docs to understand the structure of a tweet object
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 16: April 18, Wednesday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
 
 ------
 [1]: https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD1+1T2018/course/
 [2]: https://www.udemy.com/amazon-web-services-aws-v/learn/v4/content
+[3]: https://github.com/desmondmorris/node-twitter
+[4]: https://github.com/BoyCook/TwitterJSClient

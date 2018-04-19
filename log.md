@@ -227,6 +227,39 @@ Explored about webhooks, twitter API and also IFTTT service.
 **Link(s)**:
 
 [16-1]:https://zeit.co/now
+[16-2]:https://ngrok.com/
+
+## Day 17: April 19, Thursday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 18: April 20, Friday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 19: April 21, Saturday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 20: April 22, Sunday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
 
 ------
 [1]: https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD1+1T2018/course/

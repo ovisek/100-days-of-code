@@ -277,6 +277,38 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Link(s)**:
 
+## Day 23: April 25, Wednesday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 24: April 26, Thursday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 25: April 27, Friday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 26: April 28, Saturday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
 ------
 [1]: https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD1+1T2018/course/
 [2]: https://www.udemy.com/amazon-web-services-aws-v/learn/v4/content

@@ -309,6 +309,38 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Link(s)**:
 
+## Day 27: April 29, Sunday
+
+**Today's Progress**:
+
+- Started learning MongoDB
+- Installation on windows
+- Launching `mongod` service and using `mongod` shell
+- Created account on mLab and MongoDB Atlas
+- 
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 28: April 30, Monday
+
+**Today's Progress**:
+
+- Continued with MongoDB
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 29: May 1, Tuesday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
 ------
 [1]: https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD1+1T2018/course/
 [2]: https://www.udemy.com/amazon-web-services-aws-v/learn/v4/content

@@ -33,6 +33,7 @@ Atleast as of now I would like to be clear with all the available services and t
 - The jekyll personal blog project is long pending. Still some things are there that I need to get fixed.
 
 **Link(s)**:
+
 [personal blog](ovisek.github.io)
 
 
@@ -317,7 +318,7 @@ Explored about webhooks, twitter API and also IFTTT service.
 - Installation on windows
 - Launching `mongod` service and using `mongod` shell
 - Created account on mLab and MongoDB Atlas
-- 
+
 
 **Thoughts**:
 
@@ -334,6 +335,88 @@ Explored about webhooks, twitter API and also IFTTT service.
 **Link(s)**:
 
 ## Day 29: May 1, Tuesday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 30: May 2, Wednesday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 31: May 3, Thursday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 32: May 4, Friday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 32: May 5, Saturday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 32: May 6, Sunday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+## Day 33: May 7, Monday
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+---
+
+## Day : May 10, Thursday
+
+**Today's Progress**:
+
+- [Introduction to MongoDB@coursera][00-1]
+
+**Thoughts**:
+
+**Link(s)**:
+
+[00-1]: https://www.coursera.org/learn/introduction-mongodb/home/welcome
+
+## Day : May 11, Friday
+
+**Today's Progress**:
+
+- [Introduction to shell for Data Science@datacamp][01-1]
+
+**Thoughts**:
+
+**Link(s)**:
+
+[01-1]:https://www.datacamp.com/courses/introduction-to-shell-for-data-science
+
+## Day : May 12, Saturday
 
 **Today's Progress**:
 

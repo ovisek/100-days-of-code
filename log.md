@@ -202,7 +202,7 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Thoughts**:
 
-- The introduction has gone fine so far. There's so much more to explore - hopefully I'll get to learn while  doing app specific work
+- The introduction has been so far so good. There's so much more to explore - hopefully I'll get to learn while  doing app specific work
 
 **Link(s)**
 
@@ -231,69 +231,13 @@ Explored about webhooks, twitter API and also IFTTT service.
 [16-2]:https://ngrok.com/
 
 ## Day 17: April 19, Thursday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
 ## Day 18: April 20, Friday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
 ## Day 19: April 21, Saturday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
 ## Day 20: April 22, Sunday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
 ## Day 21: April 23, Monday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
 ## Day 22: April 24, Tuesday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
 ## Day 23: April 25, Wednesday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
 ## Day 24: April 26, Thursday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
 ## Day 25: April 27, Friday
 
 **Today's Progress**:

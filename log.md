@@ -244,7 +244,7 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Link(s)**:
 
-``April 20 , Friday``
+~~April 20 , Friday~~
 
 ## Day 18: April 21, Saturday
 
@@ -259,7 +259,7 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Link(s)**:
 
-``April 22, Sunday``
+~~April 22, Sunday~~
 
 ## Day 19: April 23, Monday
 ## Day 20: April 24, Tuesday
@@ -274,8 +274,8 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Link(s)**:
 
-``April 25, Wednesday``
-``April 26, Thursday``
+~~April 25, Wednesday~~
+~~April 26, Thursday~~
 
 ## Day 21: April 27, Friday
 ## Day 22: April 28, Saturday
@@ -325,9 +325,9 @@ Explored about webhooks, twitter API and also IFTTT service.
 ## Day 29: May 5, Saturday
 ## Day 30: May 6, Sunday
 ## Day 31: May 7, Monday
----
 ## Day 32: May 8, Tuesday
 ## Day 33: May 9, Wednesday
+
 
 ## Day 34: May 10, Thursday
 
@@ -341,8 +341,7 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 [00-1]: https://www.coursera.org/learn/introduction-mongodb/home/welcome
 
-
-## Day : May 11, Friday
+## Day 35: May 11, Friday
 
 **Today's Progress**:
 
@@ -354,7 +353,7 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 [01-1]:https://www.datacamp.com/courses/introduction-to-shell-for-data-science
 
-## Day : May 12, Saturday
+## Day 36: May 12, Saturday
 
 **Today's Progress**:
 
@@ -362,12 +361,12 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Link(s)**:
 
-May 13, Sunday
-May 14, Monday
+## Day 37: May 13, Sunday
+## Day 38: May 14, Monday
 
-May 15, Tuesday
-May 16, Wednesday
-May 17, Thursday
+## Day 39: May 15, Tuesday
+## Day 40: May 16, Wednesday
+## Day 41: May 17, Thursday
 
 **Today's Progress**:
 
@@ -379,9 +378,10 @@ May 17, Thursday
 
 **Link(s)**:
 
-May 18, Friday
-May 19, Saturday
-May 20, Sunday
+## Day 42: May 18, Friday
+## Day 43: May 19, Saturday
+
+## Day 44: May 20, Sunday
 
 **Today's Progress**:
 
@@ -391,7 +391,7 @@ May 20, Sunday
 
 **Link(s)**:
 
-May 21, Monday
+## Day 45: May 21, Monday
 
 **Today's Progress**:
 
@@ -401,7 +401,7 @@ May 21, Monday
 
 **Link(s)**:
 
-May 22, Tuesday
+## Day 46: May 22, Tuesday
 
 ------
 

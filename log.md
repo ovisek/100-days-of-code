@@ -4,7 +4,7 @@
 
 **Today's Progress**:
 
-- Started with an introduction to AWS IAM services. 
+- Started with an introduction to AWS IAM services.
 - Configured SSH access to EC2 instance (AWS Linux AMI) via Putty on Windows
 - Created new role and assigned to instance
 - Installed boto3
@@ -12,11 +12,12 @@
 **Thoughts**:
 
 - I would like to get a clear picture how the SSH connections work - the maths and concepts behind assymetric keys / public / private keys. This may lead to digressing from the actual learning objectives , but I feel spending sometime on it is worth it.
-- Also, I had started on getting an overview of the various AWS services and concepts - `reference`:[Amazon Web Services (AWS) - Zero to Hero][2]. Few topics are yet to be covered. This isn't a exhaustive study but a general overview - will take up each of these one at a time while working on these from a programers perspective.
+- Also, I had started on getting an overview of the various AWS services and concepts - `reference`:[Amazon Web Services (AWS) - Zero to Hero][1-1]. Few topics are yet to be covered. This isn't a exhaustive study but a general overview - will take up each of these one at a time while working on these from a programers perspective.
 Atleast as of now I would like to be clear with all the available services and their use cases.
 
 **Link(s)**:
 
+[1-1]:https://www.udemy.com/amazon-web-services-aws-v/learn/v4/content
 
 ## Day 2: April 4, Wednesday
 
@@ -51,6 +52,7 @@ Atleast as of now I would like to be clear with all the available services and t
 - Adding collections / tags to the blog is something I need to figure out.
 
 **Link(s)**:
+
 [personal blog](ovisek.github.io)
 
 
@@ -73,7 +75,7 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Today's Progress**:
 
- - Going through the contents from the course [AWS Developer: Building on AWS][1]
+ - Going through the contents from the course [AWS Developer: Building on AWS][5-1]
 
 **Thoughts**:
 
@@ -81,6 +83,7 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Link(s)**:
 
+[5-1]:https://www.edx.org/course/aws-developer-building-on-aws
 
 ## Day 6: April 8, Sunday
 
@@ -99,8 +102,8 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Today's Progress**:
 
-- Week 1-2 : [AWS Developer: Building on AWS][1].
-- Discovered that the webhook had been tweeting on my behalf - not quite the format I wanted : but some success here.
+- Week 1-2 : [AWS Developer: Building on AWS][7-1].
+- Discovered that the twitter service configured for the project had been tweeting on my behalf - not quite the format I wanted : but some success here.
 
 **Thoughts**:
 
@@ -108,19 +111,20 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Link(s)**:
 
+[7-1]:https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD1+1T2018/course/
 
 ## Day 8: April 10, Tuesday
 
 **Today's Progress**
 
-- Watched video on Flask app development.
+- Watched video on [Flask App Development][8-1].
 
 **Thoughts**:
 
 - This is something I would need to work on later - this digresses from current schedule . Passive video watching doesn't help much unless some actual code is wriiten and tested using the things learnt.
 
 **Link(s)**:
-
+[8-1]:https://app.pluralsight.com/library/courses/flask-micro-framework-introduction/table-of-contents
 
 ## Day 9: April 11, Wednesday
 
@@ -231,30 +235,64 @@ Explored about webhooks, twitter API and also IFTTT service.
 [16-2]:https://ngrok.com/
 
 ## Day 17: April 19, Thursday
-## Day 18: April 20, Friday
-## Day 19: April 21, Saturday
-## Day 20: April 22, Sunday
-## Day 21: April 23, Monday
-## Day 22: April 24, Tuesday
-## Day 23: April 25, Wednesday
-## Day 24: April 26, Thursday
-## Day 25: April 27, Friday
 
 **Today's Progress**:
+- Did some reading on AWS IAM.
 
 **Thoughts**:
+- Today was a busy day - Going home tonight, so had to finish off all that I could at work. Will be at home for the next few days.
 
 **Link(s)**:
 
-## Day 26: April 28, Saturday
+``April 20 , Friday``
+
+## Day 18: April 21, Saturday
 
 **Today's Progress**:
 
+- Working on creating a node app that tweets with the hashtag #100daysofcode whenever an issue is closed in the repository (the user would open an issue for each day's log and once he is done updating / finalising the log - the issue is closed which triggers an webhook event that sends a POST request to a callback URL : where the node app is running ).
+- For now trying to use npm modules (Twitter API wrappers) to tweet programmatically.
+
 **Thoughts**:
+
+- This project covers a number of concepts like : webhooks, working with API's, deployment of node.js app - so it is a good oppurtunity to learn.
 
 **Link(s)**:
 
-## Day 27: April 29, Sunday
+``April 22, Sunday``
+
+## Day 19: April 23, Monday
+## Day 20: April 24, Tuesday
+
+**Today's Progress**:
+
+- An initial version of the app that does the core functionality has been created and tested locally.
+
+**Thoughts**:
+
+- Would need to figure out on the deployment of the app and creating frontend for the same - Keeping this postoned for now.
+
+**Link(s)**:
+
+``April 25, Wednesday``
+``April 26, Thursday``
+
+## Day 21: April 27, Friday
+## Day 22: April 28, Saturday
+
+**Today's Progress**:
+
+- Continued with the [Express + Node.js tutorial][21/22-1] 
+
+**Thoughts**:
+
+- It's a good time to explore MongoDB and get introduced to NoSQL. So next few days wouuld be concentrating on learning MongoDb
+
+**Link(s)**:
+
+[21/22-1]:https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose
+
+## Day 23: April 29, Sunday
 
 **Today's Progress**:
 
@@ -263,80 +301,35 @@ Explored about webhooks, twitter API and also IFTTT service.
 - Launching `mongod` service and using `mongod` shell
 - Created account on mLab and MongoDB Atlas
 
-
 **Thoughts**:
 
 **Link(s)**:
 
-## Day 28: April 30, Monday
+
+## Day 24: April 30, Monday
 
 **Today's Progress**:
 
-- Continued with MongoDB
+- Continued with MongoDB. [Instant MongoDb @packtpub] 
 
 **Thoughts**:
 
 **Link(s)**:
 
-## Day 29: May 1, Tuesday
+- [24-1]:https://www.packtpub.com/mapt/book/all_books/9781782169703
 
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
-## Day 30: May 2, Wednesday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
-## Day 31: May 3, Thursday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
-## Day 32: May 4, Friday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
-## Day 32: May 5, Saturday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
-## Day 32: May 6, Sunday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
-## Day 33: May 7, Monday
-
-**Today's Progress**:
-
-**Thoughts**:
-
-**Link(s)**:
-
+## Day 25: May 1, Tuesday
+## Day 26: May 2, Wednesday
+## Day 27: May 3, Thursday
+## Day 28: May 4, Friday
+## Day 29: May 5, Saturday
+## Day 30: May 6, Sunday
+## Day 31: May 7, Monday
 ---
+## Day 32: May 8, Tuesday
+## Day 33: May 9, Wednesday
 
-## Day : May 10, Thursday
+## Day 34: May 10, Thursday
 
 **Today's Progress**:
 
@@ -347,6 +340,7 @@ Explored about webhooks, twitter API and also IFTTT service.
 **Link(s)**:
 
 [00-1]: https://www.coursera.org/learn/introduction-mongodb/home/welcome
+
 
 ## Day : May 11, Friday
 
@@ -368,8 +362,49 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Link(s)**:
 
+May 13, Sunday
+May 14, Monday
+
+May 15, Tuesday
+May 16, Wednesday
+May 17, Thursday
+
+**Today's Progress**:
+
+- Reworked on the personal blog .
+
+**Thoughts**:
+
+- Have been dabbling with Jekyll for static site generation for sometime now. Finally things are starting to make more sense.
+
+**Link(s)**:
+
+May 18, Friday
+May 19, Saturday
+May 20, Sunday
+
+**Today's Progress**:
+
+- Completed Week 1 projects for course m001
+
+**Thoughts**:
+
+**Link(s)**:
+
+May 21, Monday
+
+**Today's Progress**:
+
+- Learned about GeoJSON and Geo Spatial queries
+
+**Thoughts**:
+
+**Link(s)**:
+
+May 22, Tuesday
+
 ------
-[1]: https://courses.edx.org/courses/course-v1:AWS+OTP-AWSD1+1T2018/course/
-[2]: https://www.udemy.com/amazon-web-services-aws-v/learn/v4/content
+
+
 [3]: https://github.com/desmondmorris/node-twitter
 [4]: https://github.com/BoyCook/TwitterJSClient

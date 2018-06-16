@@ -407,25 +407,33 @@ Explored about webhooks, twitter API and also IFTTT service.
 ## Day 56: June 08, Friday
 
 **Weeks Progress**:
+
 **Thoughts**:
+
 **Link(s)**:
 
-https://twitter.com/_ovisek_/status/1002530708768903174?s=19
+https://twitter.com/_ovisek_/status/1002530708768903174
+
 
 ## Day 62: June 08, Friday
 
 **Weeks Progress**:
+
 **Thoughts**:
+
 **Link(s)**:
 
-https://twitter.com/_ovisek_/status/1004995856590823424?s=19
+https://twitter.com/_ovisek_/status/1004995856590823424
 
 ## Day 68: June 15, Friday
 
 **Weeks Progress**:
+
 **Thoughts**:
+
 **Link(s)**:
 
+https://twitter.com/_ovisek_/status/1007855070644449280
 
 
 ------

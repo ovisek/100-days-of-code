@@ -436,6 +436,27 @@ https://twitter.com/_ovisek_/status/1004995856590823424
 https://twitter.com/_ovisek_/status/1007855070644449280
 
 
+## Day 75: June 23, Saturday
+
+**Weeks Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+https://twitter.com/_ovisek_/status/1010568564049371136
+
+
+## Day 81: June 29, Friday
+
+**Weeks Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+https://twitter.com/_ovisek_/status/1012557028018081792
+
 ------
 
 

@@ -457,8 +457,17 @@ https://twitter.com/_ovisek_/status/1010568564049371136
 
 https://twitter.com/_ovisek_/status/1012557028018081792
 
-------
+## Day 100: July 16, Monday
 
+**Weeks Progress**:
+
+**Thoughts**:
+
+**Link(s)**:
+
+https://twitter.com/_ovisek_/status/1018907963015102465
+
+------
 
 [3]: https://github.com/desmondmorris/node-twitter
 [4]: https://github.com/BoyCook/TwitterJSClient

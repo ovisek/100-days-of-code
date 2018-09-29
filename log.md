@@ -333,25 +333,25 @@ Explored about webhooks, twitter API and also IFTTT service.
 
 **Today's Progress**:
 
-- [Introduction to MongoDB@coursera][00-1]
+- [Introduction to MongoDB@coursera][34-1]
 
 **Thoughts**:
 
 **Link(s)**:
 
-[00-1]: https://www.coursera.org/learn/introduction-mongodb/home/welcome
+[34-1]: https://www.coursera.org/learn/introduction-mongodb/home/welcome
 
 ## Day 35: May 11, Friday
 
 **Today's Progress**:
 
-- [Introduction to shell for Data Science@datacamp][01-1]
+- [Introduction to shell for Data Science@datacamp][35-1]
 
 **Thoughts**:
 
 **Link(s)**:
 
-[01-1]:https://www.datacamp.com/courses/introduction-to-shell-for-data-science
+[35-1]:https://www.datacamp.com/courses/introduction-to-shell-for-data-science
 
 ## Day 36: May 12, Saturday
 
@@ -425,6 +425,7 @@ https://twitter.com/_ovisek_/status/1002530708768903174
 
 https://twitter.com/_ovisek_/status/1004995856590823424
 
+
 ## Day 68: June 15, Friday
 
 **Weeks Progress**:
@@ -468,6 +469,3 @@ https://twitter.com/_ovisek_/status/1012557028018081792
 https://twitter.com/_ovisek_/status/1018907963015102465
 
 ------
-
-[3]: https://github.com/desmondmorris/node-twitter
-[4]: https://github.com/BoyCook/TwitterJSClient
